@@ -1,4 +1,3 @@
----
 
 ```python id="advanced"
 @dataclass
